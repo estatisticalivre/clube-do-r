@@ -1,0 +1,11 @@
+---
+title: "Módulo 1 - Fundamentos do R"
+lang: pt
+---
+## Conteúdo do Módulo
+
+- [1Apresentação do R e do Ambiente](01-apresentacao.qmd)
+- [Primeiros Comandos no R](02-primeiros-comandos.qmd)
+- [Tipos de Dados](03-tipos-de-dados.qmd)
+- [Vetores](04-vetores.qmd)
+

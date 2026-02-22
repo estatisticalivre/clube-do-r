@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Clube do R"
+
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/estatisticalivre/clube-do-r
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "🟢 Módulo 1 — Fundamentos"
+        contents:
+          - modulo-1-fundamentos/index.qmd
+          - modulo-1-fundamentos/01-apresentacao.qmd
+
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    code-fold: true
+    code-summary: "Mostrar código"
+    number-sections: true
+
+
+

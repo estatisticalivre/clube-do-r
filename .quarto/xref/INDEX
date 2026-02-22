@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "8b86f713"
+  },
+  "about.qmd": {
+    "about.html": "bfa9d941"
+  },
+  "modulo-1-fundamentos/index.qmd": {
+    "index.html": "e9287b86"
+  },
+  "modulo-1-fundamentos/01-apresentacao.qmd": {
+    "01-apresentacao.html": "2fabf562"
+  },
+  "modulo-1-fundamentos/02-primeiros-comandos.qmd": {
+    "02-primeiros-comandos.html": "1cdbbeb8"
+  },
+  "modulo-1-fundamentos/03-tipos-de-dados.qmd": {
+    "03-tipos-de-dados.html": "9ca2331d"
+  },
+  "modulo-1-fundamentos/04-vetores.qmd": {
+    "04-vetores.html": "e72872d2"
+  }
+}
