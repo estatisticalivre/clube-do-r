@@ -6,11 +6,6 @@ website:
   title: "Clube do R"
 
   navbar:
-    left:
-      - text: "Início"
-        href: index.qmd
-      - text: "Sobre"
-        href: about.qmd
     right:
       - icon: github
         href: https://github.com/estatisticalivre/clube-do-r
@@ -19,6 +14,10 @@ website:
     style: "docked"
     search: true
     contents:
+      - text: "Início"
+        href: index.qmd
+      - text: "Sobre"
+        href: about.qmd
       - section: "🟢 Módulo 1 — Fundamentos"
         contents:
           - modulo-1-fundamentos/index.qmd
