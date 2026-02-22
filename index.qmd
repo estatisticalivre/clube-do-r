@@ -1,5 +1,5 @@
 ---
-title: "# Apresentação do R e do Ambiente"
+title: ""
 author: Nielson Alexandre de Almeida Dantas Junior
 lang: pt
 ---
