@@ -1,25 +1,10 @@
 [
   {
-    "objectID": "modulo-1-fundamentos/index.html",
-    "href": "modulo-1-fundamentos/index.html",
-    "title": "Módulo 1 - Fundamentos do R",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Clube do R",
     "section": "",
-    "text": "1Apresentação do R e do Ambiente\nPrimeiros Comandos no R\nTipos de Dados\nVetores",
-    "crumbs": [
-      "🟢 Módulo 1 — Fundamentos",
-      "Módulo 1 - Fundamentos do R"
-    ]
-  },
-  {
-    "objectID": "modulo-1-fundamentos/index.html#conteúdo-do-módulo",
-    "href": "modulo-1-fundamentos/index.html#conteúdo-do-módulo",
-    "title": "Módulo 1 - Fundamentos do R",
-    "section": "",
-    "text": "1Apresentação do R e do Ambiente\nPrimeiros Comandos no R\nTipos de Dados\nVetores",
-    "crumbs": [
-      "🟢 Módulo 1 — Fundamentos",
-      "Módulo 1 - Fundamentos do R"
-    ]
+    "text": "1 Bem-vindo ao Clube do R\nEste é o site oficial do Clube do R."
   },
   {
     "objectID": "about.html",
@@ -27,5 +12,264 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "modulo1.html#operações-matemáticas-básicas",
+    "href": "modulo1.html#operações-matemáticas-básicas",
+    "title": "Fundamentos do R",
+    "section": "2.1 Operações matemáticas básicas",
+    "text": "2.1 Operações matemáticas básicas"
+  },
+  {
+    "objectID": "modulo1.html#comentários",
+    "href": "modulo1.html#comentários",
+    "title": "Fundamentos do R",
+    "section": "2.2 Comentários (#)",
+    "text": "2.2 Comentários (#)"
+  },
+  {
+    "objectID": "modulo1.html#criando-objetos-com--",
+    "href": "modulo1.html#criando-objetos-com--",
+    "title": "Fundamentos do R",
+    "section": "2.3 Criando objetos com <-",
+    "text": "2.3 Criando objetos com &lt;-"
+  },
+  {
+    "objectID": "modulo1.html#exibindo-objetos",
+    "href": "modulo1.html#exibindo-objetos",
+    "title": "Fundamentos do R",
+    "section": "2.4 Exibindo objetos",
+    "text": "2.4 Exibindo objetos"
+  },
+  {
+    "objectID": "modulo1.html#funções-básicas-mean-sum-length",
+    "href": "modulo1.html#funções-básicas-mean-sum-length",
+    "title": "Fundamentos do R",
+    "section": "2.5 Funções básicas (mean(), sum(), length())",
+    "text": "2.5 Funções básicas (mean(), sum(), length())"
+  },
+  {
+    "objectID": "modulo1.html#numeric",
+    "href": "modulo1.html#numeric",
+    "title": "Fundamentos do R",
+    "section": "3.1 Numeric",
+    "text": "3.1 Numeric"
+  },
+  {
+    "objectID": "modulo1.html#integer",
+    "href": "modulo1.html#integer",
+    "title": "Fundamentos do R",
+    "section": "3.2 Integer",
+    "text": "3.2 Integer"
+  },
+  {
+    "objectID": "modulo1.html#character",
+    "href": "modulo1.html#character",
+    "title": "Fundamentos do R",
+    "section": "3.3 Character",
+    "text": "3.3 Character"
+  },
+  {
+    "objectID": "modulo1.html#logical",
+    "href": "modulo1.html#logical",
+    "title": "Fundamentos do R",
+    "section": "3.4 Logical",
+    "text": "3.4 Logical"
+  },
+  {
+    "objectID": "modulo1.html#factor",
+    "href": "modulo1.html#factor",
+    "title": "Fundamentos do R",
+    "section": "3.5 Factor",
+    "text": "3.5 Factor"
+  },
+  {
+    "objectID": "modulo1.html#como-verificar-tipo-class-str",
+    "href": "modulo1.html#como-verificar-tipo-class-str",
+    "title": "Fundamentos do R",
+    "section": "3.6 Como verificar tipo (class(), str())",
+    "text": "3.6 Como verificar tipo (class(), str())"
+  },
+  {
+    "objectID": "modulo1.html#criando-vetores-c",
+    "href": "modulo1.html#criando-vetores-c",
+    "title": "Fundamentos do R",
+    "section": "4.1 Criando vetores (c())",
+    "text": "4.1 Criando vetores (c())"
+  },
+  {
+    "objectID": "modulo1.html#operações-com-vetores",
+    "href": "modulo1.html#operações-com-vetores",
+    "title": "Fundamentos do R",
+    "section": "4.2 Operações com vetores",
+    "text": "4.2 Operações com vetores"
+  },
+  {
+    "objectID": "modulo1.html#indexação",
+    "href": "modulo1.html#indexação",
+    "title": "Fundamentos do R",
+    "section": "4.3 Indexação",
+    "text": "4.3 Indexação"
+  },
+  {
+    "objectID": "modulo1.html#sequências-seq",
+    "href": "modulo1.html#sequências-seq",
+    "title": "Fundamentos do R",
+    "section": "4.4 Sequências (seq())",
+    "text": "4.4 Sequências (seq())"
+  },
+  {
+    "objectID": "modulo1.html#repetição-rep",
+    "href": "modulo1.html#repetição-rep",
+    "title": "Fundamentos do R",
+    "section": "4.5 Repetição (rep())",
+    "text": "4.5 Repetição (rep())"
+  },
+  {
+    "objectID": "modulo1.html#criando-matrizes-matrix",
+    "href": "modulo1.html#criando-matrizes-matrix",
+    "title": "Fundamentos do R",
+    "section": "5.1 Criando matrizes (matrix())",
+    "text": "5.1 Criando matrizes (matrix())"
+  },
+  {
+    "objectID": "modulo1.html#dimensões",
+    "href": "modulo1.html#dimensões",
+    "title": "Fundamentos do R",
+    "section": "5.2 Dimensões",
+    "text": "5.2 Dimensões"
+  },
+  {
+    "objectID": "modulo1.html#acessando-elementos",
+    "href": "modulo1.html#acessando-elementos",
+    "title": "Fundamentos do R",
+    "section": "5.3 Acessando elementos",
+    "text": "5.3 Acessando elementos"
+  },
+  {
+    "objectID": "modulo1.html#listas-list",
+    "href": "modulo1.html#listas-list",
+    "title": "Fundamentos do R",
+    "section": "5.4 Listas (list())",
+    "text": "5.4 Listas (list())"
+  },
+  {
+    "objectID": "modulo1.html#diferença-entre-lista-e-vetor",
+    "href": "modulo1.html#diferença-entre-lista-e-vetor",
+    "title": "Fundamentos do R",
+    "section": "5.5 Diferença entre lista e vetor",
+    "text": "5.5 Diferença entre lista e vetor"
+  },
+  {
+    "objectID": "modulo1.html#criando-data.frame",
+    "href": "modulo1.html#criando-data.frame",
+    "title": "Fundamentos do R",
+    "section": "6.1 Criando data.frame()",
+    "text": "6.1 Criando data.frame()"
+  },
+  {
+    "objectID": "modulo1.html#acessando-colunas",
+    "href": "modulo1.html#acessando-colunas",
+    "title": "Fundamentos do R",
+    "section": "6.2 Acessando colunas",
+    "text": "6.2 Acessando colunas"
+  },
+  {
+    "objectID": "modulo1.html#vs",
+    "href": "modulo1.html#vs",
+    "title": "Fundamentos do R",
+    "section": "6.3 $ vs [ , ]",
+    "text": "6.3 $ vs [ , ]"
+  },
+  {
+    "objectID": "modulo1.html#estrutura-str",
+    "href": "modulo1.html#estrutura-str",
+    "title": "Fundamentos do R",
+    "section": "6.4 Estrutura (str())",
+    "text": "6.4 Estrutura (str())"
+  },
+  {
+    "objectID": "modulo1.html#if",
+    "href": "modulo1.html#if",
+    "title": "Fundamentos do R",
+    "section": "7.1 if",
+    "text": "7.1 if"
+  },
+  {
+    "objectID": "modulo1.html#else",
+    "href": "modulo1.html#else",
+    "title": "Fundamentos do R",
+    "section": "7.2 else",
+    "text": "7.2 else"
+  },
+  {
+    "objectID": "modulo1.html#else-if",
+    "href": "modulo1.html#else-if",
+    "title": "Fundamentos do R",
+    "section": "7.3 else if",
+    "text": "7.3 else if"
+  },
+  {
+    "objectID": "modulo1.html#operadores-lógicos",
+    "href": "modulo1.html#operadores-lógicos",
+    "title": "Fundamentos do R",
+    "section": "7.4 Operadores lógicos (==, >, <, &, |)",
+    "text": "7.4 Operadores lógicos (==, &gt;, &lt;, &, |)"
+  },
+  {
+    "objectID": "modulo1.html#for",
+    "href": "modulo1.html#for",
+    "title": "Fundamentos do R",
+    "section": "8.1 for",
+    "text": "8.1 for"
+  },
+  {
+    "objectID": "modulo1.html#while",
+    "href": "modulo1.html#while",
+    "title": "Fundamentos do R",
+    "section": "8.2 while",
+    "text": "8.2 while"
+  },
+  {
+    "objectID": "modulo1.html#quando-usar-loops",
+    "href": "modulo1.html#quando-usar-loops",
+    "title": "Fundamentos do R",
+    "section": "8.3 Quando usar loops",
+    "text": "8.3 Quando usar loops"
+  },
+  {
+    "objectID": "modulo1.html#alternativa-vetorizada",
+    "href": "modulo1.html#alternativa-vetorizada",
+    "title": "Fundamentos do R",
+    "section": "8.4 Alternativa vetorizada",
+    "text": "8.4 Alternativa vetorizada"
+  },
+  {
+    "objectID": "modulo1.html#criando-função",
+    "href": "modulo1.html#criando-função",
+    "title": "Fundamentos do R",
+    "section": "9.1 Criando função",
+    "text": "9.1 Criando função"
+  },
+  {
+    "objectID": "modulo1.html#argumentos",
+    "href": "modulo1.html#argumentos",
+    "title": "Fundamentos do R",
+    "section": "9.2 Argumentos",
+    "text": "9.2 Argumentos"
+  },
+  {
+    "objectID": "modulo1.html#retorno",
+    "href": "modulo1.html#retorno",
+    "title": "Fundamentos do R",
+    "section": "9.3 Retorno",
+    "text": "9.3 Retorno"
+  },
+  {
+    "objectID": "modulo1.html#escopo",
+    "href": "modulo1.html#escopo",
+    "title": "Fundamentos do R",
+    "section": "9.4 Escopo",
+    "text": "9.4 Escopo"
   }
 ]

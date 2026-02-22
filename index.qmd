@@ -1,8 +1,10 @@
 ---
-title: ""
-author: Nielson Alexandre de Almeida Dantas Junior
-lang: pt
+title: "Clube do R"
 ---
+
+# Bem-vindo ao Clube do R
+
+Este é o site oficial do Clube do R.
 
 
 

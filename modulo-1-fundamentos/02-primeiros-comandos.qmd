@@ -1,8 +1,0 @@
----
-title: "Apresentação do R e do Ambiente"
-lang: pt
-message: false
-warning: false
-linkcolor: black
-urlcolor: black
----

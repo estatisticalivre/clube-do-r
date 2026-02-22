@@ -1,0 +1,119 @@
+---
+title: "Fundamentos do R"
+---
+
+# Apresentação do R e do Ambiente
+
+## O que é R? 
+
+## Para que serve o R?
+
+## Diferença entre R e RStudio
+
+## Estrutura do RStudio
+
+### Console
+
+### Script
+
+### Environment
+
+### Plots
+
+## Criando um Projeto no RStudio
+
+# Primeiros Comandos no R
+
+## Operações matemáticas básicas
+
+## Comentários (`#`)
+
+## Criando objetos com `<-`
+
+## Exibindo objetos
+
+## Funções básicas (`mean()`, `sum()`, `length()`)
+
+
+# Tipos de Dados
+
+## Numeric
+
+## Integer
+
+## Character
+
+## Logical
+
+## Factor
+
+## Como verificar tipo (`class()`, `str()`)
+
+
+# Vetores
+
+## Criando vetores (`c()`)
+
+## Operações com vetores
+
+## Indexação
+
+## Sequências (`seq()`)
+
+## Repetição (`rep()`)
+
+
+# Matrizes e Listas
+
+## Criando matrizes (`matrix()`)
+
+## Dimensões
+
+## Acessando elementos
+
+## Listas (`list()`)
+
+## Diferença entre lista e vetor
+
+
+# Data Frames
+
+## Criando `data.frame()`
+
+## Acessando colunas
+
+## `$` vs `[ , ]`
+
+## Estrutura (`str()`)
+
+
+# Condicionais
+
+## `if`
+
+## `else`
+
+## `else if`
+
+## Operadores lógicos (`==`, `>`, `<`, `&`, `|`)
+
+# Loops
+
+## `for`
+
+## `while`
+
+## Quando usar loops
+
+## Alternativa vetorizada
+
+# Funções no R
+
+## Criando função
+
+## Argumentos
+
+## Retorno
+
+## Escopo
+

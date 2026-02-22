@@ -6,23 +6,20 @@ website:
   title: "Clube do R"
 
   navbar:
+    search: true
+    left:
+      - text: "Início"
+        href: index.qmd
+      - text: "Módulo 1"
+        href: modulo1.qmd
+      - text: "Módulo 2"
+        href: modulo2.qmd
+      - text: "Sobre"
+        href: about.qmd
     right:
       - icon: github
         href: https://github.com/estatisticalivre/clube-do-r
-
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - text: "Início"
-        href: index.qmd
-      - text: "Sobre"
-        href: about.qmd
-      - section: "🟢 Módulo 1 — Fundamentos"
-        contents:
-          - modulo-1-fundamentos/index.qmd
-          - modulo-1-fundamentos/01-apresentacao.qmd
-
+        aria-label: GitHub
 
 format:
   html:
@@ -34,6 +31,3 @@ format:
     code-fold: true
     code-summary: "Mostrar código"
     number-sections: true
-
-
-
