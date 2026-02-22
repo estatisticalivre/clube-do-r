@@ -1,1 +1,31 @@
 /* css styles */
+
+/* ============================= */
+/* LIGHT MODE (flatly) */
+/* ============================= */
+
+body:not(.quarto-dark) h1 code,
+body:not(.quarto-dark) h2 code,
+body:not(.quarto-dark) h3 code {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+  padding: 4px 8px;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+
+/* ============================= */
+/* DARK MODE (darkly) */
+/* ============================= */
+
+body.quarto-dark h1 code,
+body.quarto-dark h2 code,
+body.quarto-dark h3 code {
+  color: #ffffff !important;
+  background-color: #1a1a1a !important;
+  border: 1px solid #444;
+  padding: 4px 8px;
+  border-radius: 8px;
+  font-weight: 600;
+}
